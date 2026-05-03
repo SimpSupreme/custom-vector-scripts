@@ -4,7 +4,7 @@ my collection of awfuly coded scripts for the Vector Roblox external. if/when I 
 ## supported games
 - [Grave/Digger](https://www.roblox.com/games/18259975825/Grave-Digger)
 ## other scripts
-- none ATM
+- Script Loader
 ## coming "soon"
 - [Doors](https://www.roblox.com/games/6516141723/DOORS)
 - [Pressure](https://www.roblox.com/games/12411473842/Worth-The-Wait-Pressure)
