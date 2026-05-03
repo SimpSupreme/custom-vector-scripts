@@ -12,4 +12,7 @@ my collection of awfuly coded scripts for the Vector Roblox external. if/when I 
 - [Regretevator](https://www.roblox.com/games/4972273297/Regretevator) (this'll be a long one, don't expect it soon)
 - [Twenty One](https://www.roblox.com/games/16446180574/Twenty-One) (If I can get card values)
 - [Absolvement](https://www.roblox.com/games/15646364136/Absolvement)
-- [No Big Deal](https://www.roblox.com/games/18112334178/No-Big-Deal) (if I can get an acc with voice chat)
+- [No Big Deal](https://www.roblox.com/games/18112334178/No-Big-Deal) (iffy on this one, the game is kinda dead ngl)
+- a color library
+- a workspace dumper
+- a health indicator for games that don't have one
